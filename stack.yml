@@ -9,7 +9,6 @@ services:
         environment:
             MYSQL_DATABASE: facturacion
             MYSQL_ROOT_PASSWORD: example
-            MYSQL_USER: root
             MYSQL_PASSWORD: example
         ports:
             - 5500:3306
