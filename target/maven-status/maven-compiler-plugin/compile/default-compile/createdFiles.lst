@@ -1,0 +1,14 @@
+com\coderhouse\facturacion\repository\IDetailsRepository.class
+com\coderhouse\facturacion\service\ProductService.class
+com\coderhouse\facturacion\controller\ProductController.class
+com\coderhouse\facturacion\entity\Invoice.class
+com\coderhouse\facturacion\FacturacionApplication.class
+com\coderhouse\facturacion\model\ClientResponseDTO.class
+com\coderhouse\facturacion\entity\Client.class
+com\coderhouse\facturacion\repository\IProductRepository.class
+com\coderhouse\facturacion\repository\IInvoiceRepository.class
+com\coderhouse\facturacion\service\InvoiceService.class
+com\coderhouse\facturacion\controller\ClientController.class
+com\coderhouse\facturacion\service\ClientService.class
+com\coderhouse\facturacion\entity\Product.class
+com\coderhouse\facturacion\repository\IClientRepository.class
